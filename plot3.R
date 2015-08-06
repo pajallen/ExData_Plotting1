@@ -4,7 +4,7 @@
 ## This code reads electric power consumption data from the UC Irvine Machine Learning Repository web site, ##
 ## cleans and subsets the data for dates 2007-02-01 and 2007-02-02, then creates a 480 by 480 Plot3.PNG     ##
 ## file containing a line plot of Energy Sub Metering broken out by the three Sub Metering groupings        ##
-## vs. Date & Time and Global Reactive Power vs. Date & Time arranged in a 2 x 2 matrix                     ##
+## vs. Date & Time.                                                                                         ##
 ##############################################################################################################
 
 ## Load necessary libraries ##
