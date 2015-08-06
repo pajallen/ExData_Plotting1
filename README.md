@@ -1,10 +1,10 @@
 ## Running the code associated with the assignment below:
 
 <ol>
-<li>Place the four sets of R code (plot1.R, plot2.R, plot3.R and plot4.R) in the working directory "~/R/ExData_Plotting1/".
-<li>Simply run the code and it will pull the data from the <b>UC Irvine Machining Learning Repository<b> and generate PNG output files. 
+<li>Place the four sets of R code (plot1.R, plot2.R, plot3.R and plot4.R) in the working directory "~/R/ExData_Plotting1/".<li>
+<li>Simply run the code and it will pull the data from the <b>UC Irvine Machining Learning Repository<b> and generate PNG output files.<li>
 
-
+<ol>
 
 ## Introduction
 
